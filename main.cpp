@@ -2,6 +2,7 @@
 #include <vector>
 
 // notice no "include/" part in the path, because we have configured our CMake target properties
+#include "personLib/Person.hpp"
 #include "personLib/Greet.hpp"
 
 // 'using namespace' in .cpp files are fine, but avoid 'using namespace std;'
