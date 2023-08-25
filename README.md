@@ -1,3 +1,8 @@
+
+# [Solution proposal 1](https://github.com/AIS2203-H-2023/exercise1-markaren/tree/header-solution) (headers)
+# [Solution proposal 2](https://github.com/AIS2203-H-2023/exercise1-markaren/tree/src-solution) (library)
+
+
 # ais2203_exercise1
 
 ### Setup
